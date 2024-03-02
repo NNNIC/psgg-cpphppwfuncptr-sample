@@ -11,12 +11,12 @@ Visual Studio 2022
 ## Sources
 <p>
 sample/ <br>
-　test1.cpp - main <br>
-　test1.sln - solution file  <br>
-　test1.vcxproj - project file  <br>
-　state/Test1Control.psgg - StageGo file   <br>
-　state/Test1Control.hpp  - Decreation part output using StateGo   <br> 
-　state/Test1Control.cpp  - Implementation part output using StateGo   <br> 
+縲test1.cpp - main <br>
+縲test1.sln - solution file  <br>
+縲test1.vcxproj - project file  <br>
+縲state/Test1Control.psgg - StageGo file   <br>
+縲state/Test1Control.hpp  - Decreation part output using StateGo   <br> 
+縲state/Test1Control.cpp  - Implementation part output using StateGo   <br> 
 </p>
 
 ## Run
